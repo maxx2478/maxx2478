@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manohar-patil24/)
-### Hi there 👋 I'm Manohar. I'm an Android Developer with 4 years of Android development experience. I'm a beginner backend node.js developer too. You'll find all my public repositories here. 
+### Hi there 👋 I'm Manohar Krishna Patil. I'm an Android Developer with 4 years of Android development experience. I'm a beginner backend node.js developer too. You'll find all my public repositories here. 
 
 
 <a href="https://github.com/braydoncoyer">
